@@ -16,14 +16,14 @@ from time import strftime
 from tkinter import Label, Tk
 
 
-def main():
+def main() -> None:
     """
     Runs the Clock GUI and calculations
 
     :return: None - "void" function
     """
 
-    def update():
+    def update() -> None:
         """
         Constantly updates the clock
 
