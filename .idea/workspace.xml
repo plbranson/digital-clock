@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="462c73c6-0d84-4329-8431-16c869ca2866" name="Changes" comment="Working Product">
-      <change afterPath="$PROJECT_DIR$/images/digital-clock.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="462c73c6-0d84-4329-8431-16c869ca2866" name="Changes" comment="Updated README.md" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +43,11 @@
     "settings.editor.selected.configurable": "preferences.sourceCode.Python"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\plbra\source\PycharmProjects\digital-clock\images" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="digital-clock" />
@@ -110,13 +112,22 @@
       <option name="project" value="LOCAL" />
       <updated>1722700134223</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Updated README.md">
+      <option name="closed" value="true" />
+      <created>1722700276376</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722700276376</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="PyCharm Setup" />
     <MESSAGE value="Added Copyright Information" />
     <MESSAGE value="Working Product" />
-    <option name="LAST_COMMIT_MESSAGE" value="Working Product" />
+    <MESSAGE value="Updated README.md" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated README.md" />
   </component>
 </project>
